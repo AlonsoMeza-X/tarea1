@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+    background-image: linear-gradient(180deg, #43264c 0, #301646 25%, #160741 50%, #00003d 75%, #000039 100%);
+    color: white;
+    }
+
+p {
+    text-align: center;
+}
